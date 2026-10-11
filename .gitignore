@@ -1,0 +1,4 @@
+output_energy/
+electricity.csv
+metadata.csv
+__pycache__/
